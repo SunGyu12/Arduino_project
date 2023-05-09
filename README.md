@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arduino_project
 
 ## 제습기 스위치 제어 With Arduino
@@ -19,3 +20,6 @@
 스위치 눌렀을 때(인터럽트)
 
 ![image](https://user-images.githubusercontent.com/126065290/236662954-835ef9c2-ff35-4b8a-b7cb-519f7df72aab.png)
+=======
+# Arduino_project
+>>>>>>> a461cd0635c9e22f14f4c400b913fd4e4d85d8ad
